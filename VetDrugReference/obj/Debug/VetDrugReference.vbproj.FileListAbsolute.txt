@@ -1,0 +1,46 @@
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\bin\Debug\VeterinaryDrugs.mdf
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\bin\Debug\VeterinaryDrugs_log.ldf
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\bin\Debug\VetDrugReference.exe
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\bin\Debug\VetDrugReference.pdb
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\bin\Debug\VetDrugReference.xml
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\obj\Debug\VetDrugReference.Form1.resources
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\obj\Debug\VetDrugReference.Resources.resources
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\obj\Debug\VetDrugReference.vbproj.GenerateResource.Cache
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\obj\Debug\VetDrugReference.exe
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\obj\Debug\VetDrugReference.xml
+C:\Users\Krista\AppData\Local\Temporary Projects\VetDrugReference\obj\Debug\VetDrugReference.pdb
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.exe
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.xml
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.pdb
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VeterinaryDrugs.mdf
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VeterinaryDrugs_log.ldf
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VetDrugReference.exe
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VetDrugReference.pdb
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VetDrugReference.xml
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.Resources.resources
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.vbproj.GenerateResource.Cache
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VetDrugReference.exe.manifest
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VetDrugReference.application
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.exe.manifest
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.application
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.frmVetDrugs.resources
+F:\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.exe
+F:\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.xml
+F:\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.pdb
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.exe
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.xml
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.pdb
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VeterinaryDrugs.mdf
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VeterinaryDrugs_log.ldf
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VetDrugReference.exe.manifest
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VetDrugReference.application
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VetDrugReference.exe
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VetDrugReference.pdb
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Debug\VetDrugReference.xml
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.frmVetDrugs.resources
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.Resources.resources
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.vbproj.GenerateResource.Cache
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.exe.manifest
+G:\Projects\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Debug\VetDrugReference.application

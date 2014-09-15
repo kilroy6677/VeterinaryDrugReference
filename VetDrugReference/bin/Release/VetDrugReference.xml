@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VetDrugReference
+</name>
+</assembly>
+<members>
+<member name="T:VetDrugReference.VeterinaryDrugsDataSet.DosagesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.DrugsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.SpeciesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.UsesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.DosagesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.DrugsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.SpeciesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.UsesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.DosagesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.DrugsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.SpeciesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet.UsesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.DosagesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.DrugsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.SpeciesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.UsesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(VetDrugReference.VeterinaryDrugsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(VetDrugReference.VeterinaryDrugsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(VetDrugReference.VeterinaryDrugsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.TableAdapterManager.UpdateAll(VetDrugReference.VeterinaryDrugsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:VetDrugReference.VeterinaryDrugsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,16 @@
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Release\VeterinaryDrugs.mdf
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Release\VeterinaryDrugs_log.ldf
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Release\VetDrugReference.exe
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Release\VetDrugReference.pdb
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Release\VetDrugReference.xml
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Release\VetDrugReference.Form1.resources
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Release\VetDrugReference.Resources.resources
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Release\VetDrugReference.vbproj.GenerateResource.Cache
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Release\VetDrugReference.exe
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Release\VetDrugReference.xml
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Release\VetDrugReference.pdb
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Release\VetDrugReference.exe.manifest
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\bin\Release\VetDrugReference.application
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Release\VetDrugReference.exe.manifest
+C:\Users\Krista\Documents\Visual Studio 2008\Projects\VetDrugReference\VetDrugReference\obj\Release\VetDrugReference.application
